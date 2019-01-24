@@ -13,7 +13,9 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Promoted to Level1");
             }
-            else { Console.WriteLine("Promoted to Level2"); }
+            else { Console.WriteLine("Promoted to Level2");
+                // ggggg
+            }
             
         }
         public int CalculateRating()
